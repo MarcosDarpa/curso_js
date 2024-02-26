@@ -13,3 +13,4 @@ console.log(ola("Olá"))
 ola = () => 'Ola'
 ola = _ => 'Olá'
 console.log(ola())
+
